@@ -1,0 +1,141 @@
+body {
+    background: rgb(204,204,204); 
+    
+  }
+  page {
+    background: white;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 0.5cm;
+    box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+    
+  }
+  page[size="A5"] {  
+    width: 21cm;
+    height: 29.7cm; 
+  }
+  
+  .first {
+      position: relative;
+      top: 110px;
+    margin-right: 80px;
+    margin-left: 80px;
+   float: left;
+   line-height: 2px;
+   
+  }
+  .first1 {
+  position: relative;
+  top: 80px;
+  margin-right: 80px;
+  margin-left: 80px;
+  float: right;
+  
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
+  .line-1 {
+    height: 1px;
+    background: black;
+  }
+  .Career-Objective{
+    position: relative;
+    top: 50px;
+    margin-right: 80px;
+    margin-left: 80px;
+    float: left; 
+  }
+  table{
+    border-collapse: collapse;
+    width: 100%;
+  }
+  table.GeneratedTable {
+    width: 100%;
+    background-color: #ffffff;
+    border-collapse: collapse;
+    border-width: 0px;
+    border-color: #f7f7f7;
+    border-style: solid;
+    color: #000000;
+    
+  }
+  
+  table.GeneratedTable td, table.GeneratedTable th {
+    border-width: 0px;
+    border-color: #f7f7f7;
+    border-style: solid;
+    padding: 3px;
+  }
+  
+  table.GeneratedTable thead {
+    background-color: #fafafa;
+  }
+  
+  table.GeneratedTable1 thead {
+    background-color: #f0f0f0;
+  }
+  table.GeneratedTable1 {
+    width: 100%;
+    background-color: #ffffff;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-color: #0a0a0a;
+    border-style: solid;
+    color: #000000;
+  }
+  
+  table.GeneratedTable1 td, table.GeneratedTable1 th {
+    border-width: 3px;
+    border-color: #030303;
+    border-style: solid;
+    padding: 3px;
+  }
+  
+  table.GeneratedTable1 thead {
+    background-color: #fafafa;
+  }
+  .roman {
+    list-style-type: lower-roman;
+    
+   }
+   .square {
+    list-style-type: square;
+    margin-left: -2em;
+   }
+   
+  table.GeneratedTable2 {
+    width: 100%;
+    background-color: #ffffff;
+    border-collapse: collapse;
+    border-width: 0px;
+    border-color: #f7f7f7;
+    border-style: solid;
+    color: #000000;
+    border-collapse: collapse;
+    width: 100%;
+    margin-left: 80px;
+    
+  }
+  
+  table.GeneratedTable2 td, table.GeneratedTable2 th {
+    border-width: 0px;
+    border-color: #f7f7f7;
+    border-style: solid;
+    padding: 3px;
+  }
+  
+  table.GeneratedTable2 thead {
+    background-color: #fafafa;
+  }
+  .footer{
+    position: relative;
+    top: 60px;
+    margin-right: 80px;
+    margin-left: 300px;
+    float: left;
+  }
+  
